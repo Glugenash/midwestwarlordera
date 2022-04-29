@@ -1,0 +1,16 @@
+characters = {
+	WIS_robert_la_follette={
+		name="Robert M. La Follette"
+		portraits={
+			civilian={
+				large="gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+			}
+		}
+		country_leader={
+			#desc="POLITICS_JOHN_CURTIN_DESC"
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
