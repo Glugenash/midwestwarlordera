@@ -83,3 +83,28 @@ WIS = {
 	color = rgb { 37  125  33 }
 	color_ui = rgb { 37  125  33 }
 }
+
+MIN = {
+	color = rgb { 0 204 204 }
+	color_ui = rgb { 0 204 204 }
+}
+
+FAR = {
+	color = rgb { 76 153 0 }
+	color_ui = rgb { 76 153 0 }
+}
+
+NGR = {
+	color = rgb { 153 76 0 }
+	color_ui = rgb { 153 76 0 }
+}
+
+NEM = {
+	color = rgb { 0 103 0 }
+	color_ui = rgb { 0 103 0 }
+}
+
+ROC = {
+	color = rgb { 0 0 200 }
+	color_ui = rgb { 0 0 200 }
+}

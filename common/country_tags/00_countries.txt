@@ -31,3 +31,8 @@ RUS	= "countries/Russia.txt"
 VEN = "countries/Venezula.txt"
 
 WIS = "countries/Wisconsin.txt"
+MIN = "countries/Wisconsin.txt"
+FAR = "countries/Wisconsin.txt"
+NGR = "countries/Wisconsin.txt"
+NEM = "countries/Wisconsin.txt"
+ROC = "countries/Wisconsin.txt"

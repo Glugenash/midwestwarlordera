@@ -1,0 +1,15 @@
+state={
+	id=84
+	name="STATE_84"
+	history={
+		owner = FAR
+		add_core_of = FAR
+	}
+
+	provinces={
+		4768 6966 7009 498 4145 2834 7015 2088 5929 3163 3569 1301 7078 1520 7083 4148 7074 7025 7055 4364 7048
+	}
+	manpower=1
+	state_category=town
+	buildings_max_level_factor=1.000
+}

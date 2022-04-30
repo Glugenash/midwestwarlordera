@@ -1,14 +1,13 @@
-
 state={
-	id=32
-	name="STATE_32"
+	id=87
+	name="STATE_87"
 	history={
 		owner = MIN
 		add_core_of = MIN
 	}
 
 	provinces={
-	 6954 3782 5725
+		463 3286 4325 6968 6947
 	}
 	manpower=1
 	state_category=town
